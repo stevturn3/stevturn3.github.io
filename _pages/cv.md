@@ -20,10 +20,10 @@ redirect_from:
 *Intern, Bioinformatics Analyst - Full-Time (40 hrs)*  
 *June 2023 – September 2023*
 
-- Expanded and optimized the code base, contributing over 500 lines of code.
-- Resulted in improved runtime, accuracy, and readability of quality control methods.
+- Revamped quality control methods, improving the runtime, accuracy, and readability of the code base.
 - Developed and implemented read mapping algorithms, leading to a 3% increase in mapped reads.
-- Collaborated with scientists to extend code functionality for a newly developed assay.
+- Collaborated with scientists to extend code functionality for newly developed assays.
+- Pushed over 500 lines of code to the team repository.
 
 ### INTERNET SAFETY LABS, Remote
 *Junior Researcher | Quantitative Analyst - Full-Time (40 hrs)*  
