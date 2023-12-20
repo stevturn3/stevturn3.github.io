@@ -30,7 +30,6 @@ redirect_from:
 *March 2022 – May 2023*
 
 - Developed a sampling procedure for collecting data on malicious characteristics of EdTech applications.
-- Collected data and created efficient and accessible data storage schemas.
 - Created automated data collection and visualization tools using R and PowerShell.
 
 ### UCLA FOOTBALL, Los Angeles, CA
