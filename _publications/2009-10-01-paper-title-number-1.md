@@ -1,12 +1,12 @@
 ---
-title: "Check"
+title: "Leveraging family data to design Mendelian Randomization that is provably robust to population stratification"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/MR_Trio
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2003
+venue: 'Genome Research, 2023'
+paperurl: 'https://genome.cshlp.org/content/33/7/1032'
+citation: 'Nathan LaPierre, Boyang Fu, Steven Turnbull, Eleazar Eskin, Sriram Sankararaman'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
