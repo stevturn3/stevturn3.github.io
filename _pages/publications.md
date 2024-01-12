@@ -4,13 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+# 2023
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+Leveraging family data to design Mendelian Randomization that is provably robust to population stratification.
+[Download paper here]([https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9881984/])
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Nathan LaPierre, Boyang Fu, Steven Turnbull, Eleazar Eskin, Sriram Sankararaman
+Genome Research, 2023
