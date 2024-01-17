@@ -4,10 +4,7 @@ main:
     url: /publications/
     
   - title: "Courses"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+    url: /courses/
     
   - title: "Resume"
     url: /cv/
