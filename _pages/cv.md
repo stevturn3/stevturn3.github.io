@@ -12,7 +12,7 @@ redirect_from:
 ## Education
 
 * B.S. in Statistics & Data Science, UCLA, 2018-2022
-* M.S. in Statistics & Data Science, UCLA, 2024
+* M.S. in Statistics & Data Science, UCLA, 2022-2024
 
 ## Work Experience
 
@@ -21,10 +21,10 @@ redirect_from:
 *July 2026 – Current*
 
 ### Active Motif
-*Data Scientist / Biostatician 2*  
+*Data Scientist 2*  
 *January 2026 – July 2026*
 
-*Data Scientist / Biostatician 1*  
+*Data Scientist 1*  
 *July 2024 – January 2026*
 
 ### ADAPTIVE BIOTECHNOLOGIES, Seattle, WA (Remote)
